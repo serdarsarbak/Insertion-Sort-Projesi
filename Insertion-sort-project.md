@@ -30,7 +30,7 @@ n=6 => O(36)
    Worst case: Aradığımız sayının sonda olması
    Best case: Aradığımız sayının başta olması
    
-4. 18 sayılı ortada olduğundan average case kapsamına girer.
+4. 18 sayısı ortada olduğundan average case kapsamına girer.
 
 b-) 
 1. [2,3,5,8,7,9,4,15,6]
