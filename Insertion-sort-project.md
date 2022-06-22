@@ -12,7 +12,7 @@ a-) [22,27,16,2,18,6] -> Insertion Sort
 
 b-) [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız.
 
-Çözüm:
+**Çözüm:**
 
 a-)
 1. [2,27,16,22,18,6]
